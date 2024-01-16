@@ -10,9 +10,18 @@ Calculated features:
 - area of tha largest connected patch of charged (at pH 7) amino acids
 - area of tha largest connected patch of hydrophobic amino acids
 
+
+## Requirements
+
 To run the code DSSP has to be installed. It can be downloaded and placed in teh working directory from:
 https://swift.cmbi.umcn.nl/gv/dssp/
 
 or it can be downloaded and installed using:
 
     conda install -c salilab dssp
+
+Required packages to run this code are:
+
+* python: pandas, scipy, numpy, matplotlib, biopython.
+* Patch.py and ProteinPatch.py from the directory src/ResidueBased from https://github.com/ibivu/hydrophobic_patches/tree/main
+
