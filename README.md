@@ -4,11 +4,12 @@ This code takes a FASTA file containing protein seqeunces and pdb files (generat
 Calculated features: 
 
 - isoelectric point
-- molecular mass
-- net charge at pH 5,7,9
-- surface charge at pH 5,7,9
-- area of tha largest connected patch of charged (at pH 7) amino acids
+- net charge (at pH 5,7,9 or user defined)
+- surface charge (at pH 5,7,9 or user defined)
+- area of tha largest connected patch of charged (at pH 7 or user defined) amino acids
 - area of tha largest connected patch of hydrophobic amino acids
+- relative hydrophobic surface area
+- relative charged surface area
 
 
 ## Requirements
