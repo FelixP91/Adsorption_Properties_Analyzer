@@ -23,6 +23,6 @@ or it can be downloaded and installed using:
 
 Required packages to run this code are:
 
-* general: pandas, numpy, biopython, scipy, matplotlib, seaborn, regex.
+* general: pandas, biopython, os.
 * Patch.py and ProteinPatch.py from the directory src/ResidueBased from https://github.com/ibivu/hydrophobic_patches/tree/main
 
