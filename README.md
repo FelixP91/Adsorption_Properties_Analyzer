@@ -11,6 +11,10 @@ Calculated features:
 - relative hydrophobic surface area
 - relative charged surface area
 
+<div style="padding:2em">
+<img src="https://github.com/FelixP91/Biochemical_Analyzer/blob/main/Figure.png?raw=true" width="1000" align=center>
+</div>
+
 
 ## Requirements
 
