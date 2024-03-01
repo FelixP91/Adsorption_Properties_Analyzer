@@ -12,7 +12,7 @@ Calculated features:
 - relative charged surface area
 
 <div style="padding:2em">
-<img src="https://github.com/FelixP91/Biochemical_Analyzer/blob/main/Figure.png?raw=true" width="1000" align=center>
+<img src="https://github.com/FelixP91/Biochemical_Analyzer/blob/main/Figure.png?raw=true" width="700" align=center>
 </div>
 
 
